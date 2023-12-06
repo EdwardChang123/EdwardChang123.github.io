@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of Psychology](https://psy.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a fourth year undergraduate student from [School of Psychology](https://psy.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/). My research interest includes affective visualization, neuroscience, machine learning, and barrier-free design.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Jianhui Wu](https://psy.szu.edu.cn/info/1101/1474.htm) of Stress Lab from [School of Psychology](https://psy.szu.edu.cn/) and [Prof. Zhida Sun](https://zhdsun.github.io/) of HCI Lab from [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/). I am also very grateful for the help of [Prof. Jinting Liu](https://psy.szu.edu.cn/info/1019/1085.htm) of Positive Cognition Lab from [School of Psychology](https://psy.szu.edu.cn/), who is the guide to lead me on the academic road.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Edward's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 ————————————————
