@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
