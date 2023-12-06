@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-11-21
+venue: 'Frontiers in Neuroscience'
+paper link: 'https://www.frontiersin.org/articles/10.3389/fnins.2023.1269359/full'
+citation: 'Zhang, Y., Zhang, Y., Jiang, Z., Xu, M., & Qing, K. (2023). The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
