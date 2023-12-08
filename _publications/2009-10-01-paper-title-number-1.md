@@ -1,15 +1,10 @@
 ---
-title: "The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review"
+title: "Age-appropriate Web Design for Old People Using Comprehensive Mathematical Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 06/10/2023 - 06/11/2023
+venue: '2023 International Conference on Picture Processing, Robotics and Artificial Intelligence (PPRAI 2023)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Muchen Cao* & Yue Zhang, Age-appropriate Web Design for Old People Using Comprehensive Mathematical Model.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
